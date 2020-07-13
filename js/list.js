@@ -42,19 +42,19 @@ var Mylist = React.createClass({
 });
 
 var PRODUCTS = [
-  {price: '$200.00', stocked: true, name: '01', photo: 'img/01.jpg'},
+//  {price: '$200.00', stocked: true, name: '01', photo: 'img/01.jpg'},
   {price: '$200.00', stocked: true, name: '02', photo: 'img/02.jpg'},
   {price: '$200.00', stocked: true, name: '03', photo: 'img/03.jpg'},
   {price: '$200.00', stocked: true, name: '04', photo: 'img/04.jpg'},
   {price: '$200.00', stocked: true, name: '05', photo: 'img/05.jpg'},
   {price: '$200.00', stocked: true, name: '06', photo: 'img/06.jpg'},
-  {price: '$200.00', stocked: true, name: '07', photo: 'img/07.jpg'},
-  {price: '$200.00', stocked: true, name: '08', photo: 'img/08.jpg'},
-  {price: '$200.00', stocked: true, name: '09', photo: 'img/09.jpg'},
-  {price: '$200.00', stocked: true, name: '10', photo: 'img/10.jpg'},
-  {price: '$200.00', stocked: true, name: '11', photo: 'img/11.jpg'},
-  {price: '$200.00', stocked: true, name: '12', photo: 'img/12.jpg'},
-  {price: '$200.00', stocked: true, name: '13', photo: 'img/13.jpg'},
+//  {price: '$200.00', stocked: true, name: '07', photo: 'img/07.jpg'},
+//  {price: '$200.00', stocked: true, name: '08', photo: 'img/08.jpg'},
+//  {price: '$200.00', stocked: true, name: '09', photo: 'img/09.jpg'},
+//  {price: '$200.00', stocked: true, name: '10', photo: 'img/10.jpg'},
+//  {price: '$200.00', stocked: true, name: '11', photo: 'img/11.jpg'},
+//  {price: '$200.00', stocked: true, name: '12', photo: 'img/12.jpg'},
+//  {price: '$200.00', stocked: true, name: '13', photo: 'img/13.jpg'},
 ];
  
 ReactDOM.render(
